@@ -1,6 +1,6 @@
 # Surfs_Up
 
-###CHALLENGE OVERVIEW 
+### CHALLENGE OVERVIEW 
 
 In this module 9 project, we explore advanced data storage and the process of retreival to produce different temperature trends in Hawaii.  The primary focus was on the months of June and December to determine if a potential ice cream and surf shop is sustainable year round. 
 
